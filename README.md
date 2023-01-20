@@ -3,7 +3,7 @@
 ## TODO
 
 - Setup redux toolkit
--Add slice reducer/state
+- Add slice reducer/state
 
 
 ## TIMESTAMP
